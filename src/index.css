@@ -1,0 +1,22 @@
+@import "tailwindcss";
+
+
+
+/* Reset Vite's narrow #root */
+#root { max-width: none; width: 100%; margin: 0; padding: 0; }
+
+/* Full-height page + background */
+html, body, #root { height: 100%; }
+body { margin: 0; }
+
+/* If you want the paper bg on the whole page */
+body { background: var(--color-paper); }
+
+/* ✅ Optional: your custom theme colors */
+@theme {
+  --color-navy:  #27323F;
+  --color-paper: #F8F5F0;
+  --color-orange:#F97316;
+  --color-green: #145a32;
+  --color-g100:  #D1D5DB;
+}
