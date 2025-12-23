@@ -1,4 +1,5 @@
 # Project Name
+CampEasy - Website Experience
 
 ## Overview
 CampEasy is a responsive website experience designed to help users discover, plan, and book camping stays with ease. The project focuses on creating a clear, intuitive user journey from browsing campsites to completing a reservation, while reducing friction and uncertainty during the booking process.
